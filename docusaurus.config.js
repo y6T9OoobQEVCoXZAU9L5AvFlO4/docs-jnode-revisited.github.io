@@ -9,9 +9,9 @@ const projectName = "github-pages-docusaurus";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My Site",
-  tagline: "Dinosaurs are cool",
-  url: `https://${organizationName}.github.io`,
+  title: "Documentation",
+  tagline: "aaaaaaaaaaaaa",
+  url: `https://docs-jnode-revisited.github.io`,
   baseUrl: `/${projectName}/`,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "throw",
@@ -41,13 +41,13 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: `https://github.com/${organizationName}/${projectName}/tree/main/`,
+          editUrl: `https://github.com/32b793c70c923706623185b275bc077a/docs-jnode-revisited.github.io/tree/main/`,
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: `https://github.com/${organizationName}/${projectName}/tree/main/`,
+          editUrl: `https://github.com/32b793c70c923706623185b275bc077a/docs-jnode-revisited.github.io/tree/main/`,
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -60,10 +60,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "My Site",
-        logo: {
-          alt: "My Site Logo",
-          src: "img/logo.svg",
+        title: "Documentation",
         },
         items: [
           {
