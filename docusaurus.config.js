@@ -11,7 +11,7 @@ const projectName = "docs-jnode-revisited.github.io";
 const config = {
   title: "Documentation",
   tagline: "aaaaaaaaaaaaa",
-  url: `https://docs-jnode-revisited.github.io`,
+  url: `https://32b793c70c923706623185b275bc077a.github.io/https://docs-jnode-revisited.github.io`,
   baseUrl: `/${projectName}/`,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "throw",
